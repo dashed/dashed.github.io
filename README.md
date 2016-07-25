@@ -7,7 +7,11 @@ Alberto Leal 🇨🇦
 - [keybase.io/dashed](https://keybase.io/dashed)
 - [bitcoin: 1NU1fz2QjjWgupqKg5oSBgu7d4JRHmu754](bitcoin:1NU1fz2QjjWgupqKg5oSBgu7d4JRHmu754?message=github.com/dashed/personalsite)
 
+-----
+
 *[How to (im)properly use PGP.](https://xkcd.com/1181)*
+
+[Public key from: keybase.io/dashed/key.asc](https://keybase.io/dashed/key.asc)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
